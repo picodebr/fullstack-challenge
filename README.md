@@ -62,7 +62,7 @@ Essa parte não é obrigatória, mas será um diferencial se você implementar.
 
 - Cadastro de alunos
 - Vínculo entre livro e aluno
-- Histórico de todos alunos que já estiveram o livro.
+- Histórico de todos alunos que já estiveram com o livro.
 - Design responsivo para mobile
 
 ---
